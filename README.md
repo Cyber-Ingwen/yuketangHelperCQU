@@ -5,8 +5,8 @@
 此版本university-id仅在headers里出现，跨校使用敬请留意
 
 ## 如何使用
--配好环境直接运行 videoHelper.py 就行
--鉴于我搞不球懂新版的那一坨cookie到底是什么，这边建议复制cookie一起扔进去就好，又不是不能用
+- 配好环境直接运行 videoHelper.py 就行
+- 鉴于我搞不球懂新版的那一坨cookie到底是什么，这边建议复制cookie一起扔进去就好，又不是不能用
 ![一坨cookies示例](cookie-yituo.png)
 
 以下为原仓库readme
