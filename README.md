@@ -1,6 +1,6 @@
 # yuketangHelper
 ## 修改说明 2022.11.29
-如你所见，本仓库代码fork自https://github.com/heyblackC/yuketangHelper
+本仓库代码fork自https://github.com/heyblackC/yuketangHelper
 
 修改后适配于重庆大学普通版雨课堂(www.yuketang.com)刷课使用
 
